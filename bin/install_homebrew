@@ -31,7 +31,7 @@ brew install bash
 brew install bash-completion
 
 # chruby
-brew install chruby
+# brew install chruby
 
 # cloc
 brew install cloc
@@ -46,10 +46,10 @@ brew install ctags
 brew install diff-so-fancy
 
 # direnv
-brew install direnv
+# brew install direnv
 
 # Elasticsearch
-brew install elasticsearch
+# brew install elasticsearch
 
 # Elm
 brew install elm
@@ -67,7 +67,7 @@ brew install fzf
 brew install gdbm
 
 # Gifsicle
-brew install gifsicle
+# brew install gifsicle
 
 # Git
 brew install git
@@ -118,7 +118,7 @@ brew install lnav
 brew install mas
 
 # Memcached
-brew install memcached
+# brew install memcached
 
 # Mercurial
 brew install hg
@@ -127,16 +127,16 @@ brew install hg
 brew install mobile-shell
 
 # Namebench
-brew install namebench
+# brew install namebench
 
 # Network Grep
 brew install ngrep
 
 # Nginx
-brew install nginx
+# brew install nginx
 
 # Node
-brew install node
+# brew install node
 
 # Parallel
 brew install parallel
@@ -145,10 +145,10 @@ brew install parallel
 brew install peco
 
 # pgcli
-brew install pgcli
+# brew install pgcli
 
 # Phantom.js
-brew install phantomjs
+# brew install phantomjs
 
 # Pigz
 brew install pigz
@@ -157,19 +157,19 @@ brew install pigz
 brew install pv
 
 # PostgreSQL
-brew install postgresql
+# brew install postgresql
 
 # QuickLook - Plain Text
-brew cask install qlstephen
+# brew cask install qlstephen
 
 # Redis
-brew install redis
+# brew install redis
 
 # Ruby Install
-brew install ruby-install
+# brew install ruby-install
 
 # Rust
-brew install rust
+# brew install rust
 
 # ShellCheck
 brew install shellcheck
@@ -194,10 +194,10 @@ brew install tree
 brew install vim
 
 # Watchman
-brew install watchman
+# brew install watchman
 
 # Wry
-brew install wry
+# brew install wry
 
 # Z
 brew install z
