@@ -201,3 +201,6 @@ brew install vim
 
 # Z
 brew install z
+
+# Zsh
+brew install zsh
